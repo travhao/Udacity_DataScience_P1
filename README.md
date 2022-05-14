@@ -2,6 +2,9 @@
 
 Contents of this folder:
 Readme file:  Has short description
+Link to my blog post (just the link needed to get to the blog post I wrote from my Jupyter notebook.  (link also shown in text below))
+Udacity Project 1 Airbnb Seattle Jupyter Notebook (Required for grade)
+listings.csv (This is the dataset used)
 
 
 
