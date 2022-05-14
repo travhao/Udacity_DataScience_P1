@@ -10,3 +10,5 @@ This project utilizes Airbnb Seattle rental property variables (listings excel s
 -price of rental (lower)
 
 -cancellation policy stringency (less stringent)
+
+The original dataset is found at : https://www.kaggle.com/airbnb/seattle/data
