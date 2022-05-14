@@ -12,3 +12,6 @@ This project utilizes Airbnb Seattle rental property variables (listings excel s
 -cancellation policy stringency (less stringent)
 
 The original dataset is found at : https://www.kaggle.com/airbnb/seattle/data
+
+
+NOTE:  I also have a blog post which is required for a grade.  The blog post is found out at : https://medium.com/@travhao/in-support-of-one-night-stands-c2f565fc65e
