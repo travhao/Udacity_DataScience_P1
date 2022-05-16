@@ -37,4 +37,4 @@ This project utilizes Airbnb Seattle rental property variables (listings excel s
 ## Relevant Personal Links for the Project
 
  - The blog post is found out at : https://medium.com/@travhao/in-support-of-one-night-stands-c2f565fc65e
- - 
+ - Repository link is : https://github.com/travhao/Udacity_DataScience_P1
