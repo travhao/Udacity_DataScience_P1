@@ -20,7 +20,10 @@
 
 
 ## Introduction 
-This project utilizes Airbnb Seattle rental property variables (listings excel spreadsheet) from 2016 to predict what types of variables best relate to whether or not a property allows for one night stays.  Logistic regression was utilized as the analytic method of choice.   It was found that the following variables were related to one night availability (with the category that results in more one night stays in parentheses):
+This project utilizes Airbnb Seattle rental property variables (listings excel spreadsheet) from 2016 to predict what types of variables best relate to whether or not a property allows for one night stays.  Logistic regression was utilized as the analytic method of choice.  I thought this might be an interesting question to answer as one-night stays can be less profitable and also introduces a host to hosting a different clientele than would be the case for multiple-night bookings.
+
+## Results
+It was found that the following variables were related to one night availability (with the category that results in more one night stays in parentheses):
 
 - Number of reviews (more)
 - Whether a host was a superhost or not (not)
